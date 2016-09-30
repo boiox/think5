@@ -8,6 +8,6 @@ class Index extends Controller
     public function index()
     {
         $data = db('admin')->find();
-
+        dump($data);
     }
 }
