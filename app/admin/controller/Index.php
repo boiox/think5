@@ -30,7 +30,7 @@ class Index extends Common
             if(!$msg){
                 $this->error($admin->getError());
             }else{
-                $this->success('登录成功', 'admin/index/index');
+                $this->success('登录成功', 'admin/index/welcome');
             }
 
         }else{
@@ -53,5 +53,14 @@ class Index extends Common
     public function welcome()
     {
         return view('welcome');
+    }
+
+    /**
+     * 列表页
+     * @return mixed
+     */
+    public function table()
+    {
+        return view('table');
     }
 }
