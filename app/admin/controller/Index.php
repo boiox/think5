@@ -43,6 +43,7 @@ class Index extends Common
      */
     public function index()
     {
+        echo "dd";
         return view('index');
     }
 
