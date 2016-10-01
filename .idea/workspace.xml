@@ -29,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -49,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/admin/controller/Index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -79,6 +79,7 @@
       <list>
         <option value="$PROJECT_DIR$/app/config.php" />
         <option value="$PROJECT_DIR$/app/admin/controller/Index.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
       </list>
     </option>
   </component>
@@ -249,12 +250,12 @@
       <option name="presentableId" value="Default" />
       <updated>1475311351465</updated>
       <workItem from="1475311356916" duration="1921000" />
-      <workItem from="1475326814249" duration="2135000" />
+      <workItem from="1475326814249" duration="2705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4056000" />
+    <option name="totallyTimeSpent" value="4626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -304,14 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/admin/controller/Common.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -324,6 +317,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
           <folding />
         </state>
       </provider>
